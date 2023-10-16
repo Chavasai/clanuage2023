@@ -8,7 +8,7 @@ int main()
 	{
 		for(j=0;j<4;j++)
 		{
-			scanaf("%d",a[i][j]);
+			scanf("%d",a[i][j]);
 		}
 	}
 	printf("The Elements are:");
